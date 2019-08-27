@@ -36,4 +36,7 @@ public class FooLocalServiceImpl extends FooLocalServiceBaseImpl {
 	 *
 	 * Never reference this class directly. Always use {@link com.liferay.training.gradebook.service.FooLocalServiceUtil} to access the foo local service.
 	 */
+	void main ()
+	{
+	}
 }
